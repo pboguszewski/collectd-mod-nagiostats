@@ -4,6 +4,7 @@
  */
 
 #include <stdio.h>
+#include <stdbool.h>
 
 #if ! HAVE_CONFIG_H
 
